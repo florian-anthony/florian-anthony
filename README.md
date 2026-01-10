@@ -28,11 +28,3 @@ J'aide les entreprises à combler le fossé entre leurs besoins business et la t
   <img src="https://github-readme-stats.vercel.app/api?username=florian-anthony&show_icons=true&theme=dark&hide_border=true" alt="Stats de Florian" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=florian-anthony&layout=compact&theme=dark&hide_border=true" alt="Langages les plus utilisés" height="150" />
 </p>
-
----
-
-### 📫 Me contacter pour un projet :
-
-* **Website :** [florian-anthony.ch](https://florian-anthony.ch)
-* **LinkedIn :** [linkedin.com/in/florian-anthony](https://www.linkedin.com/in/florian-anthony/)
-* **Email :** *contact@florian-anthony.ch*
