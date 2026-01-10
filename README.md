@@ -23,8 +23,9 @@ J'aide les entreprises à combler le fossé entre leurs besoins business et la t
 
 ---
 
-### 📈 Statistiques GitHub
+### 📈 Statistiques & Activité
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=florian-anthony&show_icons=true&theme=dark&hide_border=true" alt="Stats de Florian" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=florian-anthony&layout=compact&theme=dark&hide_border=true" alt="Langages les plus utilisés" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=florian-anthony&show_icons=true&theme=dark&hide_border=true" alt="Stats de Florian" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=florian-anthony&layout=compact&theme=dark&hide_border=true" alt="Langages les plus utilisés" height="150" />
 </p>
