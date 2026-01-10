@@ -1,31 +1,14 @@
-# Salut, moi c'est Florian Anthony 👋
+# Florian Anthony | Consultant Fullstack & Automation 🇨🇭
 
-**Consultant Fullstack & Automation | Engineering Management** Basé à Lausanne, Suisse 🇨🇭
+> **Pont entre business et technologie :** j'automatise le lourd et je modernise l'obsolète.
 
-J'aide les entreprises à combler le fossé entre leurs besoins business et la technologie. Mon approche est simple : **automatiser** ce qui est lourd et **moderniser** ce qui est obsolète.
-
----
-
-### 🛠 Ce que je fais concrètement :
-
-* **Modern Web Apps :** Développement d'interfaces haute performance avec **React** et **Next.js**.
-* **Robust Backends :** Architectures scalables sous **Spring Boot (Java)** ou APIs rapides avec **Python (Flask)**.
-* **Business Automation :** Expert en **Excel & VBA**. Je transforme vos fichiers complexes en outils automatisés ou en applications web complètes.
-* **Optimisation :** Audit de process et amélioration de la performance technique.
-
-### 💻 Stack Technique :
-
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
----
-
-### 📈 Statistiques & Activité
+| Expertise | Stack |
+| :--- | :--- |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) |
+| **Backend** | ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| **Automation** | ![n8n](https://img.shields.io/badge/-n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white) ![VBA](https://img.shields.io/badge/-VBA/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=florian-anthony&show_icons=true&theme=dark&hide_border=true" alt="Stats de Florian" height="150" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=florian-anthony&layout=compact&theme=dark&hide_border=true" alt="Langages les plus utilisés" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=florian-anthony&show_icons=true&theme=dark&hide_border=true&count_private=true" height="135" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=florian-anthony&layout=compact&theme=dark&hide_border=true" height="135" />
 </p>
