@@ -2,7 +2,7 @@
 
 J'aide les PME romandes à sortir d'Excel avec des applications web sur mesure.
 
-[![Site](https://img.shields.io/badge/florian--anthony.ch-09090b?style=flat-square&logo=googlechrome&logoColor=white)](https://florian-anthony.ch) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florian-anthony/) [![Mail](https://img.shields.io/badge/contact@florian--anthony.ch-555?style=flat-square&logo=maildotru&logoColor=white)](mailto:contact@florian-anthony.ch)
+[![Site](assets/badges/site.svg)](https://florian-anthony.ch) [![LinkedIn](assets/badges/linkedin.svg)](https://www.linkedin.com/in/florian-anthony/) [![Mail](assets/badges/mail.svg)](mailto:contact@florian-anthony.ch)
 
 <table>
 <tr>
@@ -50,6 +50,6 @@ Je travaille en français et en anglais.
 <p align="center"><b>Un processus qui tourne encore sur Excel&nbsp;?</b> <a href="https://florian-anthony.ch/fr/projet">Parlons-en</a></p>
 
 
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Java](https://img.shields.io/badge/-Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Next.js](assets/badges/nextjs.svg) ![Spring Boot](assets/badges/spring-boot.svg) ![Quarkus](assets/badges/quarkus.svg) ![PostgreSQL](assets/badges/postgresql.svg) ![Docker](assets/badges/docker.svg) ![Excel/VBA](assets/badges/excel-vba.svg) ![Power BI](assets/badges/power-bi.svg) [![Toute ma stack, avec les projets](assets/badges/toute-ma-stack.svg)](https://florian-anthony.ch/fr/technologies)
 
-[![HEG Genève](https://img.shields.io/badge/HEG_Genève-Bachelor_HES_en_cours-606ff6?style=for-the-badge)](https://www.hesge.ch/heg/) [![Diplôme ES](https://img.shields.io/badge/Diplôme_ES-Professional_Bachelor-9560f0?style=for-the-badge)](https://florian-anthony.ch/fr/a-propos?document=diplome-es) [![CFC](https://img.shields.io/badge/CFC-Employé_de_commerce-19b8d5?style=for-the-badge)](https://florian-anthony.ch/fr/a-propos?document=cfc-employe-de-commerce) [![Microsoft Excel Expert](https://img.shields.io/badge/Microsoft_Certified-Excel_Expert_365-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.credly.com/badges/1ddbc91d-52cb-40ac-802d-00a8cd70aac6)
+[![HEG Genève](assets/badges/heg.svg)](https://www.hesge.ch/heg/) [![Diplôme ES](assets/badges/diplome-es.svg)](https://florian-anthony.ch/fr/a-propos?document=diplome-es) [![CFC](assets/badges/cfc.svg)](https://florian-anthony.ch/fr/a-propos?document=cfc-employe-de-commerce) [![Microsoft Excel Expert](assets/badges/excel-expert.svg)](https://www.credly.com/badges/1ddbc91d-52cb-40ac-802d-00a8cd70aac6)
