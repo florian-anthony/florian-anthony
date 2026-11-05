@@ -17,7 +17,7 @@ J'aide les PME romandes à sortir d'Excel avec des applications web sur mesure.
 
 <a href="https://florian-anthony.ch/fr/capital-nexus"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/carte-nexus-sombre.gif"><img alt="Capital Nexus" src="assets/carte-nexus-clair.gif" width="100%"></picture></a>
 
-**[Capital Nexus](https://florian-anthony.ch/fr/capital-nexus)**<br>Rapports et exports de données, réalisé en stage.
+**[Capital Nexus](https://florian-anthony.ch/fr/capital-nexus)**<br>Rapports et exports de données, réalisé chez Capital Services.
 
 </td>
 </tr>
@@ -39,9 +39,17 @@ J'aide les PME romandes à sortir d'Excel avec des applications web sur mesure.
 </tr>
 </table>
 
+### Comment je travaille
+
+- **Un prix fixé d'avance**, par étapes, avant de commencer.
+- **Hébergé en Suisse**, à votre nom, et le code vous appartient.
+- **Un suivi par écrit** chaque semaine, sans réunions inutiles.
+
+Je travaille en français et en anglais.
+
 <p align="center"><b>Un processus qui tourne encore sur Excel&nbsp;?</b> <a href="https://florian-anthony.ch/fr/projet">Parlons-en</a></p>
 
 
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Java](https://img.shields.io/badge/-Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![CI/CD](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![n8n](https://img.shields.io/badge/-n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Java](https://img.shields.io/badge/-Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 [![HEG Genève](https://img.shields.io/badge/HEG_Genève-Bachelor_HES_en_cours-606ff6?style=for-the-badge)](https://www.hesge.ch/heg/) [![Diplôme ES](https://img.shields.io/badge/Diplôme_ES-Professional_Bachelor-9560f0?style=for-the-badge)](https://florian-anthony.ch/fr/a-propos?document=diplome-es) [![CFC](https://img.shields.io/badge/CFC-Employé_de_commerce-19b8d5?style=for-the-badge)](https://florian-anthony.ch/fr/a-propos?document=cfc-employe-de-commerce) [![Microsoft Excel Expert](https://img.shields.io/badge/Microsoft_Certified-Excel_Expert_365-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.credly.com/badges/1ddbc91d-52cb-40ac-802d-00a8cd70aac6)
